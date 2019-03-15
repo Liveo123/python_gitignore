@@ -1,0 +1,5 @@
+# Install
+pip3 install cookiecutter
+
+# cd to the directory you want to start a new project in
+cookiecutter https://github.com/drivendata/cookiecutter-data-science
